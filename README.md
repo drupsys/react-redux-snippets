@@ -1,1 +1,1 @@
-# Connected React Router
+# React Redux Snippets
