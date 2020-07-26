@@ -1,7 +1,7 @@
 import { connect, MapDispatchToPropsParam, MapStateToPropsParam } from "react-redux";
 import Snippet from "./Snippet";
 import ISnippetProps from "./ISnippetProps";
-import { getFeatureState } from "SnippetSelectors";
+import { getFeatureState } from "./SnippetSelectors";
 
 export interface ISnippetStateProps {
   featureState?: object;
